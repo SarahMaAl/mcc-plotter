@@ -1,0 +1,1 @@
+Tkinter + Matplotlib app to compare dosimetry MCC acquisitions (PDD & beam profiles) with rich metadata mapping and PNG export.
