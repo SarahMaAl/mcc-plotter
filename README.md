@@ -65,8 +65,7 @@ mcc-plotter/
 
 ## ⚖️ Licence
 
-Sous licence **MIT**. Vous pouvez changer la licence si besoin.
-
+Sous licence **MIT**.
 ---
 
 _Dernière mise à jour : 2025-08-22_
